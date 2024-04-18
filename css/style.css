@@ -1,0 +1,10 @@
+.form-style{
+    display:flex;
+    justify-content: center;
+
+};
+
+.opacidade{
+    background-color: gray;
+    opacity: 0.5; /* Vê o texto mais claramente acima do background */
+};
